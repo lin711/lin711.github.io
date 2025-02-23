@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 I’m a graduate student at East China University of Science and Technology, and my name is Lin Jialing.
-[Email](Y80230287@mail.ecust.edu.cn) 
+Email is Y80230287@mail.ecust.edu.cn
  
 
